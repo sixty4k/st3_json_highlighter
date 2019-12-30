@@ -1,0 +1,30 @@
+{
+	"kind": "photo",
+	"itpc": {
+		"title": "In The Moment",
+		"description": "Noush Skaugen Unplugged: Live at The Bedford in Ballham, London UK.",
+		"copyright": "Frank Jonen",
+		"keywords": [
+			"Noush Skaugen", "London", "Live", "Unplugged", "The Bedford", "Guitar", "Performance",	"Music", "Show", "Singer", "Songwriter", "Woman", "Young"
+		],
+	},
+	"exif": {
+		"camera": "Leica Camera AG M8",
+		"lens": "Leica 50mm f/0.95 Noctilux",
+		"shutter": "1/360",
+		"aperture": "1.189",
+		"iso": "640",
+		"date": "June 24, 2009"
+	},
+	"social": {
+		"500px": 34543692,
+		"instagram": null,
+		"flickr": null
+	},
+	"license": {
+		"type": "Royalty-Free",
+		"use": "Editorial",
+		"agent": "500px Prime"
+	},
+	"blurb": "Shot at the *Live at The Bedford* event, showcasing upcoming talent. The event took place in the legendary venue that gave first plays to artists like Phil Collins, [The Bedford][:place:] in [Ballham][:city:], [London][:state:], [UK][:country:]."
+}
